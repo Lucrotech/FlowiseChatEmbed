@@ -419,7 +419,7 @@ textarea {
 }
 
 .cloud {
-  width: "80vw";
+  width: calc(100% - 50px);
   height: calc(100% - 50px);
   border-radius: 0.5rem;
   display: flex;
