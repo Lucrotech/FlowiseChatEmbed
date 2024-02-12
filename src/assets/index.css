@@ -420,7 +420,7 @@ textarea {
 
 .cloud {
   width: calc(100% - 50px);
-  height: calc(100% - 50px);
+  height: 800px;
   border-radius: 0.5rem;
   display: flex;
   justify-content: center;
